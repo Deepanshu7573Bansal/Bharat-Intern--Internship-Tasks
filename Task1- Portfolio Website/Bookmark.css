@@ -1,0 +1,256 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    padding: 45px;
+    background-color: rgb(9, 9, 56);
+    border-bottom: 2px solid rgb(106, 106, 239);
+}
+
+.image1 {
+    float: left;
+    margin-left: 120px;
+    margin-top: -20px;
+    cursor: pointer;
+}
+
+.navigation {
+    margin-left: 850px;
+}
+
+.atag {
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.atag:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.sectionmain1 {
+    display: flex;
+    padding: 15px;
+    margin-top: -10px;
+}
+
+.section1 {
+    border: 2px solid black;
+    width: 140px;
+    height: 150px;
+    padding: 20px;
+    margin-left: 420px;
+    background-color: white;
+}
+
+.heading2 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image2 {
+    margin-left: 20px;
+}
+
+.section2 {
+    border: 2px solid black;
+    width: 140px;
+    height: 150px;
+    padding: 20px;
+    margin-left: 50px;
+    background-color: white;
+}
+
+.heading3 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section3 {
+    border: 2px solid black;
+    width: 140px;
+    height: 150px;
+    padding: 20px;
+    margin-left: 50px;
+    background-color: white;
+}
+
+.heading4 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading1 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 75px;
+    color: rgb(230, 230, 230);
+}
+
+.atag1 {
+    text-decoration: none;
+    color: black;
+}
+
+.sectionmain2 {
+    display: flex;
+}
+
+.section4 {
+    border: 2px solid black;
+    width: 140px;
+    height: 150px;
+    padding: 20px;
+    margin-left: 555px;
+    background-color: white;
+}
+
+.section5 {
+    border: 2px solid black;
+    width: 140px;
+    height: 150px;
+    padding: 20px;
+    margin-left: 50px;
+    background-color: white;
+}
+
+.image4,
+.image5,
+.image6,
+.image7 {
+    margin-left: 20px;
+}
+
+.section6 {
+    border: 2px solid black;
+    width: 140px;
+    height: 150px;
+    padding: 20px;
+    margin-left: 670px;
+    background-color: white;
+}
+
+.heading5 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 75px;
+    color: rgb(230, 230, 230);
+}
+
+.heading6 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading7 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading8 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 75px;
+    color: rgb(230, 230, 230);
+}
+
+.heading9 {
+    text-align: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section1:hover {
+    cursor: pointer;
+    background-color: rgb(149, 147, 147);
+}
+
+.section2:hover {
+    cursor: pointer;
+    background-color: rgb(149, 147, 147);
+}
+
+.section3:hover {
+    cursor: pointer;
+    background-color: rgb(149, 147, 147);
+}
+
+.section4:hover {
+    cursor: pointer;
+    background-color: rgb(149, 147, 147);
+}
+
+.section5:hover {
+    cursor: pointer;
+    background-color: rgb(149, 147, 147);
+}
+
+.section6:hover {
+    cursor: pointer;
+    background-color: rgb(149, 147, 147);
+}
+
+.atag1:hover {
+    color: white;
+    font-size: larger;
+}
+
+.atag2:hover {
+    color: white;
+    font-size: 20px;
+}
+
+.footer {
+    background-color: black;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.paragraph1 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph2 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::selection {
+    color: gray;
+    background-color: black;
+}
+
+.divtag {
+    background-color: rgb(42, 38, 38);
+    height: 50px;
+    margin-top: -51px;
+}
+
+main {
+    background-image: url("Bookmark\ img.jpg");
+    background-size: 1521px 1050px;
+    background-repeat: no-repeat;
+    width: 1540px;
+    height: 1100px;
+    padding: 1px;
+}

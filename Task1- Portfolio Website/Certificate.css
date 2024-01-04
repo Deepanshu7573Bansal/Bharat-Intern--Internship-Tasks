@@ -1,0 +1,106 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    padding: 45px;
+    background-color: rgb(9, 9, 56);
+    border-bottom: 2px solid rgb(106, 106, 239);
+}
+
+.image1 {
+    float: left;
+    margin-left: 120px;
+    margin-top: -20px;
+    cursor: pointer;
+}
+
+.navigation {
+    margin-left: 850px;
+}
+
+.atag {
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.atag:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+table {
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 250px;
+    margin-top: 85px;
+}
+
+tr,
+th,
+td {
+    border: 2px solid black;
+    margin: 0px;
+    padding: 15px;
+    padding-left: 65px;
+    padding-right: 65px;
+}
+
+main {
+    background-image: url("https://img.freepik.com/free-vector/decorative-frame-background-blue-vintage-flower-design-vector_53876-157569.jpg");
+    background-size: 1521px 620px;
+    background-repeat: no-repeat;
+    width: 1540px;
+    height: 650px;
+    padding: 1px;
+}
+
+table {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer {
+    background-color: black;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.paragraph1 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph2 {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::selection {
+    color: gray;
+    background-color: black;
+}
+
+.divtag {
+    background-color: rgb(42, 38, 38);
+    height: 50px;
+    margin-top: -1.22px;
+    margin-top: -31.25px;
+}
+.atag1{
+    text-decoration: none;
+}
+.atag1:hover{
+    text-decoration: underline;
+    font-size: 17px;
+}
