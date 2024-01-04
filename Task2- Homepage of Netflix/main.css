@@ -1,0 +1,277 @@
+.section5 {
+    display: flex;
+    padding: 150px;
+    padding-bottom: 75px;
+    background-color: black;
+}
+
+.section6 {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.paraghaph4 {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph5 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -25px;
+    color: white;
+}
+
+.paraghaph6 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+    color: white;
+}
+
+.image2 {
+    margin-left: 65px;
+}
+
+.section7 {
+    display: flex;
+    padding: 150px;
+    padding-bottom: 75px;
+    background-color: black;
+}
+
+.section8 {
+    margin-left: 110px;
+    margin-top: 25px;
+}
+
+.paraghaph7 {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph8 {
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: -55px;
+}
+
+.paraghaph9 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -25px;
+    color: white;
+}
+
+.paraghaph10 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+    color: white;
+}
+
+.image3 {
+    margin-left: 120px;
+}
+
+.section9 {
+    display: flex;
+    padding: 150px;
+    padding-bottom: 75px;
+    background-color: black;
+}
+
+.section10 {
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.paraghaph11 {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph12 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -25px;
+    color: white;
+}
+
+.paraghaph13 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+    color: white;
+}
+
+.section11 {
+    display: flex;
+    padding: 150px;
+    padding-bottom: 75px;
+    background-color: black;
+}
+
+.section12 {
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.paraghaph14 {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph15 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -25px;
+    color: white;
+}
+
+.paraghaph16 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+    color: white;
+}
+
+.paraghaph17 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+    color: white;
+}
+
+.section13 {
+    background-color: black;
+    padding: 25px;
+    padding-bottom: 55px;
+}
+
+.section14 {
+    display: flex;
+    background-color: rgb(43, 43, 43);
+    width: 1125px;
+    margin-left: 180px;
+    margin-right: 20px;
+    margin-top: -15px;
+}
+
+.section14:hover {
+    cursor: pointer;
+    background-color: rgb(67, 65, 65);
+}
+
+.section15 {
+    display: flex;
+    background-color: rgb(43, 43, 43);
+    width: 1125px;
+    margin-left: 180px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.section15:hover {
+    cursor: pointer;
+    background-color: rgb(67, 65, 65);
+}
+
+.paraghaph18 {
+    margin-left: 25px;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 45px;
+}
+
+.paraghaph19 {
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph20 {
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph21 {
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph22 {
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph23 {
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph24 {
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.paraghaph25 {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 385px;
+    margin-top: 50px;
+}
+
+.image5 {
+    margin-top: 24px;
+    margin-left: 870px;
+}
+
+.image6 {
+    margin-top: 24px;
+    margin-left: 722px;
+}
+
+.image7 {
+    margin-top: 24px;
+    margin-left: 824px;
+}
+
+.image8 {
+    margin-top: 24px;
+    margin-left: 855px;
+}
+
+.image9 {
+    margin-top: 24px;
+    margin-left: 731px;
+}
+
+.image10 {
+    margin-top: 24px;
+    margin-left: 789px;
+}
