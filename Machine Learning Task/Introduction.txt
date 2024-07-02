@@ -1,0 +1,3 @@
+Machine Learning Tasks:
+Task1: House Price Prediction
+Task2: Iris dataset model
